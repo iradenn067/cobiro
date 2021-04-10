@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
                 <div class="article__strapline"></div>
                 <section class="article__headline-section">
                   <h1 class="article__headline">
-                    <a href="#AFFLINK#">
+                    <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">
                       UNGLAUBLICH: Der größte Deal in der Geschichte von "Die
                       Höhle der Löwen", in nur 7 Tagen reich werden! (Ganz im
                       Ernst)
@@ -55,7 +55,7 @@ const Layout = ({ children }) => {
                   data-index="0"
                 >
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -70,7 +70,7 @@ const Layout = ({ children }) => {
                   </a>
                   <div class="article__gallery-count theme__background-color-rgba-80">
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -90,7 +90,7 @@ const Layout = ({ children }) => {
                   sind zwei Ex-Kommilitonen mit ihrer Idee einer automatisierten
                   Bitcoin-Trading-Plattform "
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -115,7 +115,7 @@ const Layout = ({ children }) => {
                   Gewinnen. "Die Höhle der Löwen" soll sich mit €2.500.000 (20%
                   an{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -127,7 +127,7 @@ const Layout = ({ children }) => {
                 <p>
                   Um zu demonstrieren wie effektiv{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -143,7 +143,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -159,7 +159,7 @@ const Layout = ({ children }) => {
                   </div>
                   <figcaption class="article__media-caption">
                     Judith Williams nachdem sie mit{" "}
-                    <a href="#AFFLINK#">Bitcoin Code</a> ihren ersten Bitcoin
+                    <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a> ihren ersten Bitcoin
                     gekauft hat.
                   </figcaption>
                 </figure>
@@ -187,7 +187,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -238,7 +238,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -266,7 +266,7 @@ const Layout = ({ children }) => {
                   die 25 Prozent überboten, während Maschmeyer mit seinem neuen
                   Angebot nur 20% für €2,5 Mio. wollte und somit{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -285,7 +285,7 @@ const Layout = ({ children }) => {
                 <p>
                   Wir haben uns entschieden,{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -306,7 +306,7 @@ const Layout = ({ children }) => {
                 <p>
                   Zudem wussten wir bereits, dass{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -320,7 +320,7 @@ const Layout = ({ children }) => {
                 <p>
                   Ich habe mich dazu entschlossen, ein Konto bei{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -336,7 +336,7 @@ const Layout = ({ children }) => {
                   Wir waren sehr skeptisch gegenüber Emilias Behauptungen, also
                   haben wir uns dazu entschlossen,{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -358,7 +358,7 @@ const Layout = ({ children }) => {
                 <p>
                   Außerdem haben wir gelernt, dass{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -372,7 +372,7 @@ const Layout = ({ children }) => {
                 <p>
                   Ich habe versucht, mich für ein Konto bei{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -385,7 +385,7 @@ const Layout = ({ children }) => {
                 </p>
 
                 <h2 class="article__headline">
-                  Meine Ergebnisse mit <a href="#AFFLINK#">Bitcoin Code</a>{" "}
+                  Meine Ergebnisse mit <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a>{" "}
                   nach 7 Tagen
                 </h2>
 
@@ -438,7 +438,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -460,7 +460,7 @@ const Layout = ({ children }) => {
                 <p>
                   Alles in allem habe ich bisher 7.300,59 Euro mit von{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -477,7 +477,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -504,7 +504,7 @@ const Layout = ({ children }) => {
                   class="article__headline"
                   style={{ textTransform: "uppercase" }}
                 >
-                  DIE LÖWEN LIEBEN <a href="#AFFLINK#">Bitcoin Code</a>
+                  DIE LÖWEN LIEBEN <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a>
                 </h2>
 
                 <figure class="article__media">
@@ -513,7 +513,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -531,7 +531,7 @@ const Layout = ({ children }) => {
                   <p>
                     "
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -550,7 +550,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -567,7 +567,7 @@ const Layout = ({ children }) => {
                   <p>
                     "Leider habe ich von den Gründern nicht den Zuschlag
                     erhalten, sondern Carsten Maschmeyer. Trotzdem nutze ich den{" "}
-                    <a href="#AFFLINK#">Bitcoin Code</a> und fahre damit
+                    <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a> und fahre damit
                     unglaubliche Gewinne ein! Mein "Return on Invest" ist mit
                     mehr als 630%, viel höher, als jeder Return den ich jemals
                     bei "Die Höhle der Löwen" erzielt habe." - Frank Thelen
@@ -579,7 +579,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -598,7 +598,7 @@ const Layout = ({ children }) => {
                     Monaten zum Bitcoin Multi-Millionär geworden. Im Nachhinein
                     wünsche ich mir, statt Carsten in den{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -615,7 +615,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -644,7 +644,7 @@ const Layout = ({ children }) => {
                     data-index="0"
                   >
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -661,7 +661,7 @@ const Layout = ({ children }) => {
                   <p>
                     "
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -670,7 +670,7 @@ const Layout = ({ children }) => {
                     hat für mich die Welt der Investitionen revolutioniert. Ich
                     habe mein normales Aktienportfolio zugunsten des{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -678,7 +678,7 @@ const Layout = ({ children }) => {
                     </a>
                     s aufgegeben. Mit dem Einsatz vom{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -692,7 +692,7 @@ const Layout = ({ children }) => {
 
                 <h2 class="article__headline">
                   PROBIEREN SIE{" "}
-                  <a href="#AFFLINK#" style={{ textTransform: "uppercase" }}>
+                  <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro" style={{ textTransform: "uppercase" }}>
                     Bitcoin Code
                   </a>{" "}
                   SELBST AUS
@@ -701,7 +701,7 @@ const Layout = ({ children }) => {
                 <p>
                   Momentan erlaubt{" "}
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -720,7 +720,7 @@ const Layout = ({ children }) => {
                   <strong>
                     Es ist wichtig, dass Sie sich sofort für{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -740,7 +740,7 @@ const Layout = ({ children }) => {
                     <ol>
                       <li>
                         <a
-                          href="#AFFLINK#"
+                          href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                           style={{ cursor: "pointer" }}
                           target="_blank"
                         >
@@ -752,7 +752,7 @@ const Layout = ({ children }) => {
                         Zahlen sie den Mindestbeitrag in Höhe von €250 ein
                       </li>
                       <li>
-                        Verwenden Sie die <a href="#AFFLINK#">Bitcoin Code</a>{" "}
+                        Verwenden Sie die <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a>{" "}
                         Platform um Geld zu verdienen
                       </li>
                     </ol>
@@ -793,7 +793,7 @@ const Layout = ({ children }) => {
                   >
                     Schritt 1:{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -803,7 +803,7 @@ const Layout = ({ children }) => {
                   </h4>
                   <br />
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -832,7 +832,7 @@ const Layout = ({ children }) => {
                   >
                     Schritt 2:{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -841,7 +841,7 @@ const Layout = ({ children }) => {
                   </h4>
                   <br />
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -853,7 +853,7 @@ const Layout = ({ children }) => {
                   <p>
                     Als nächstes werden Sie gebeten{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                       class="link-fancy"
@@ -863,7 +863,7 @@ const Layout = ({ children }) => {
                     . Als ich auf der Einzahlungsseite war, klingelte mein
                     Handy. Es war eine internationale Nummer, also zögerte ich
                     zu antworten, aber dann wurde mir klar, dass es
-                    offensichtlich von <a href="#AFFLINK#">Bitcoin Code</a>
+                    offensichtlich von <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a>
                     war. Natürlich war es mein persönlicher Kundenbetreuer. Sein
                     Service war großartig. Er hat mich durch den gesamten
                     Finanzierungsprozess geführt. Sie akzeptieren alle gängigen
@@ -890,7 +890,7 @@ const Layout = ({ children }) => {
                   >
                     Schritt 3:{" "}
                     <a
-                      href="#AFFLINK#"
+                      href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                       style={{ cursor: "pointer" }}
                       target="_blank"
                     >
@@ -899,7 +899,7 @@ const Layout = ({ children }) => {
                   </h4>
                   <br />
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
@@ -912,7 +912,7 @@ const Layout = ({ children }) => {
                     Einmal finanziert, navigierte ich zum Abschnitt
                     "Auto-Trader" der Software, setzte den Handelsbetrag auf die
                     empfohlenen 50 Euro und aktivierte ihn. Die{" "}
-                    <a href="#AFFLINK#">Bitcoin Code</a> Software fing an,
+                    <a href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro">Bitcoin Code</a> Software fing an,
                     schnell zu handeln, und ich war zuerst besorgt, aber ließ es
                     sein Ding machen. Ich ließ es etwa eine Stunde lang aktiv
                     und sah fern. Als ich zurückkam, betrug mein Kontostand
@@ -927,7 +927,7 @@ const Layout = ({ children }) => {
                 <div class="btn-wrapper">
                   <a
                     class="btn btn-lg btn-success"
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?f4oic=c00341887b134bb4a20a8&s2jquvpcog=perfektezeitraum.smb.store&y7ovzaly=cobiro"
                     style={{ cursor: "pointer" }}
                     target="_blank"
                   >
