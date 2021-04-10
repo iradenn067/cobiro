@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             itemprop="headline name"
           >
             {" "}
-            <a href="#AFFLINK#">
+            <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">
               Martin Lewis lends a hand to British families with Revolutionary
               Bitcoin Home Based Opportunity
             </a>{" "}
@@ -47,13 +47,13 @@ const Layout = ({ children }) => {
 
           <p itemprop="description">
             'Brits Are Using This to Make An Average Of{" "}
-            <a href="#AFFLINK#">£2,265</a> /day And Quitting Their Jobs!'
+            <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">£2,265</a> /day And Quitting Their Jobs!'
           </p>
 
           <div class="">
             <div class="">
               {" "}
-              <a href="#AFFLINK#" target="_blank">
+              <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                 <img
                   style={{ width: "100%", margin: "0 0 20px 0" }}
                   src="https://cdnimg.akhost.ru/153/index.gb_files/ad004.png"
@@ -68,7 +68,7 @@ const Layout = ({ children }) => {
                   However, in the last week information was leaked about{" "}
                   <b>
                     {" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                       Lewis's latest success in bitcoin trading
                     </a>{" "}
                     - an area he'd previously advised the British Nation to be
@@ -82,7 +82,7 @@ const Layout = ({ children }) => {
                   <ul>
                     <li>
                       {" "}
-                      <a href="#AFFLINK#" target="_blank">
+                      <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                         “I just couldn’t ignore it anymore!” Lewis told Rose
                         Hill, Daily Mirror. “I get so many messages through
                         social media asking about Bitcoin, from people sharing
@@ -96,7 +96,7 @@ const Layout = ({ children }) => {
                 </aside>
                 <p>
                   The new venture is called{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     Bitcoin Revolution
                   </a>{" "}
                   , and although he didn't come up with the idea, he’s invested
@@ -117,7 +117,7 @@ const Layout = ({ children }) => {
                   <ul>
                     <li>
                       {" "}
-                      <a href="#AFFLINK#" target="_blank">
+                      <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                         "No one seems to have enough money, and I believe this
                         is the solution people have been waiting for” said
                         Martin. After ‘experimenting’ with multiple
@@ -162,7 +162,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   {" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/153/index.gb_files/kate-tweet.png" />
                   </a>{" "}
                 </p>
@@ -174,7 +174,7 @@ const Layout = ({ children }) => {
                   <b>Lewis says:</b> “It’s a controversial investment, because
                   the world banking community does not want the average worker
                   to have access to this much wealth outside of the system.{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     They literally hate me for investing in this!
                   </a>{" "}
                   , but they'll hate me even more for bringing it to everyone's
@@ -182,7 +182,7 @@ const Layout = ({ children }) => {
                 </p>
                 <figure class="in-article-image">
                   {" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/153/index.gb_files/katie1.png" />
                   </a>{" "}
                   <figcaption>
@@ -199,7 +199,7 @@ const Layout = ({ children }) => {
                   window for this is this is pretty small; many British people
                   will miss out. There really is just a few months or even weeks
                   left to rake in that holiday money."{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     Economists are urging people to "Start Now!"
                   </a>{" "}
                 </p>
@@ -212,7 +212,7 @@ const Layout = ({ children }) => {
                 </p>
                 <figure class="in-article-image">
                   {" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/153/index.gb_files/fiona.png" />
                   </a>{" "}
                   <figcaption>
@@ -234,7 +234,7 @@ const Layout = ({ children }) => {
                 </p>
                 <figure class="in-article-image">
                   {" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     <img
                       src="https://cdnimg.akhost.ru/153/index.gb_files/EmbellishedDeliriousArmyworm-size_restricted.gif"
                       style={{ display: "block", margin: "0 auto" }}
@@ -243,7 +243,7 @@ const Layout = ({ children }) => {
                   <figcaption>
                     <span class="caption" itemprop="description">
                       {" "}
-                      <a href="#AFFLINK#" target="_blank">
+                      <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                         Bitcoin Revolution
                       </a>{" "}
                       now pays Fiona every Monday morning." (Image: Daily
@@ -258,7 +258,7 @@ const Layout = ({ children }) => {
                   <ul>
                     <li>
                       {" "}
-                      <a href="#AFFLINK#" target="_blank">
+                      <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                         "I now earn really good money just to work from home
                         every day...and I get paid every Monday morning... I
                         make around £7,000 a month right now and it’s creeping
@@ -272,11 +272,11 @@ const Layout = ({ children }) => {
                 </aside>
                 <p>
                   {" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     What exactly is Fiona paid to do?
                   </a>{" "}
                   She says, "Essentially this new economy is{" "}
-                  <a href="#AFFLINK#">Bitcoin Revolution</a> . You can trade it
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> . You can trade it
                   like stocks, but because it's a completely untapped market,
                   there's no competition. I'm scooping up cash like ice cream.
                   It's such a good time to be doing this and although I did my
@@ -295,7 +295,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   To save our reader’s time and double check the{" "}
-                  <a href="#AFFLINK#">Bitcoin Revolution</a> functionality,
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> functionality,
                   Fiona kindly created a guide to getting started on the system.
                 </p>
                 <p>Here's her step-by-step walkthrough:</p>
@@ -305,13 +305,13 @@ const Layout = ({ children }) => {
                   </h5>
                   <p>
                     {" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                       <img src="https://cdnimg.akhost.ru/153/index.gb_files/GB3.png" />
                     </a>{" "}
                   </p>
                   <p>
                     First thing you see is a video showing off{" "}
-                    <a href="#AFFLINK#">Bitcoin Revolution</a> in all of its
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> in all of its
                     glory. The advertising is big and bold and in your face but
                     it is an American product and that's how they do things.
                     Anyway, you simply submit your name and email address below
@@ -319,19 +319,19 @@ const Layout = ({ children }) => {
                   </p>
                   <p>
                     {" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                       <img src="https://cdnimg.akhost.ru/153/index.gb_files/bt2.png" />
                     </a>{" "}
                   </p>
                   <p>
                     Next up, you're asked to{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                       fund your account
                     </a>{" "}
                     . As I was navigating the deposit page, my mobile rang. It
                     was an international number so I was hesitant to answer but
                     then I realised it was obviously from{" "}
-                    <a href="#AFFLINK#">Bitcoin Revolution</a> . Sure enough, it
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> . Sure enough, it
                     was my own personal account manager. His service was great.
                     He took me through the entire funding process. They accept
                     all major credit cards like Visa, MasterCard and American
@@ -341,14 +341,14 @@ const Layout = ({ children }) => {
                   </p>
                   <p>
                     {" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                       <img src="https://cdnimg.akhost.ru/153/index.gb_files/submit3.png" />
                     </a>{" "}
                   </p>
                   <p>
                     Once funded, I navigated to the "Auto-Trader" section of
                     software, set the trade amount to the recommended $50 and
-                    enabled it. The <a href="#AFFLINK#">Bitcoin Revolution</a>{" "}
+                    enabled it. The <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a>{" "}
                     software started making trades at a rapid rate and I was
                     concerned at first but let it do its thing. I left it active
                     for about an hour and went and watched TV. When I came back,
@@ -363,7 +363,7 @@ const Layout = ({ children }) => {
                   rewards for “seeing what I see here”.
                 </p>
                 <a
-                  href="#AFFLINK#"
+                  href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro"
                   target="_blank"
                   class="btn btn--orange btn--animate-grow u__text--color-white"
                 >
@@ -372,7 +372,7 @@ const Layout = ({ children }) => {
                 <p>
                   Associated Links:
                   <br />{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
                     Bitcoin Revolution Official Site
                   </a>{" "}
                 </p>
