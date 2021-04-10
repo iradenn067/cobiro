@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
         <div class="">
           <div class="">
             <h1>
-              <a href="#AFFLINK#">
+              <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                 <strong>
                   <u>SPECIALRAPPORT</u>: Kjeld Kirk Kristiansens seneste
                   investering forbløffer eksperter og skræmmer de store banker
@@ -58,14 +58,14 @@ const Layout = ({ children }) => {
                 hjælp af denne "smuthul til velstand" - men er det legitimt?
               </em>
             </p>
-            <a href="#AFFLINK#">
+            <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
               <img
                 src="https://a.radikal.ru/a32/2011/34/067993bd2c52.jpg"
                 class="img-responsive"
                 style={{"padding":"0px"}}
               />
             </a>
-            <a href="#AFFLINK#">
+            <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
               <img
                 id="hero"
                 src="https://c.radikal.ru/c42/2011/05/55baccbf88b6.jpg"
@@ -75,7 +75,7 @@ const Layout = ({ children }) => {
             </a>
             <p>
               <i>
-                Kjeld Kirk <a href="#AFFLINK#">Kristiansen</a> kommer ud med nye
+                Kjeld Kirk <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Kristiansen</a> kommer ud med nye
                 hemmelige investeringer, der gør hundredvis af mennesker i
                 Danmark meget rige
               </i>
@@ -84,11 +84,11 @@ const Layout = ({ children }) => {
               <strong></strong>Den danske milliardær Kjeld Kirk Kristiansen,
               tidligere bestyrelsesformand og CEO i Lego Group, er den 3.
               rigeste mand i Danmark. Han er kendt som en skarp{" "}
-              <a href="#AFFLINK#">forretningsmand</a>, som gerne er ærlig
+              <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">forretningsmand</a>, som gerne er ærlig
               omkring, hvordan han tjener sine penge.
             </p>
             <p class="m-t-25">
-              Sidste uge optrådte han i Go' <a href="#AFFLINK#">morgen</a>{" "}
+              Sidste uge optrådte han i Go' <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">morgen</a>{" "}
               Danmark og annoncerede et nyt ’smuthul til velstand’, som han
               siger kan
               <strong>
@@ -119,7 +119,7 @@ const Layout = ({ children }) => {
                 muligheder hurtigt og uden tøven. Og lige nu tjener jeg flest
                 penge på et{" "}
                 <strong>
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     nyt program kaldet Bitcoin System til automatisk handel med
                     kryptovaluta
                   </a>
@@ -136,7 +136,7 @@ const Layout = ({ children }) => {
               der nu får hele Danmark til at summe.
             </p>
             <p class="m-t-25">
-              <a href="#AFFLINK#">
+              <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                 <img
                   id="img2"
                   src="https://i.ibb.co/km30P4P/image.png"
@@ -160,7 +160,7 @@ const Layout = ({ children }) => {
                   ”Du har muligvis hørt om denne{" "}
                   <strong>
                     nye investeringsplatform for kryptovaluta kaldet{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                       Bitcoin System
                     </a>
                   </strong>
@@ -194,7 +194,7 @@ const Layout = ({ children }) => {
                 </em>
               </p>
               <p class="m-t-25">
-                <a href="#AFFLINK#">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                   {" "}
                   <img
                     id="img3"
@@ -208,14 +208,14 @@ const Layout = ({ children }) => {
               <h2>
                 <b style={{"textTransform":"uppercase","textAlign":"center"}}>
                   HVAD PRÆCIST ER DET DANSKE{" "}
-                  <a href="#AFFLINK#">Bitcoin System</a>, OG HVORDAN FUNGERER
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a>, OG HVORDAN FUNGERER
                   DET?
                 </b>
               </h2>
               <p>
                 <strong>
                   Ideen bag
-                  <a href="#AFFLINK#">Bitcoin System</a> er ganske ligetil:
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> er ganske ligetil:
                 </strong>
                 At lade helt almindelige mennesker tjene på boomet af
                 kryptovaluta, som stadig er det 21. århundredes mest lukrative
@@ -233,7 +233,7 @@ const Layout = ({ children }) => {
                 højere for normale mennesker i Danmark.{" "}
               </p>
               <p>
-                <a href="#AFFLINK#" target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                   Bitcoin System
                 </a>
                 lader dig profitere af alle disse kryptovalutaer, selv når
@@ -243,14 +243,14 @@ const Layout = ({ children }) => {
               </p>
               <p>
                 {" "}
-                <a href="#AFFLINK#">Bitcoin System</a> bakkes op af nogle af de
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> bakkes op af nogle af de
                 mest intelligente teknikerhjerner, der nogensinde har
                 eksisteret.{" "}
                 <strong>Richard Branson, Elon Musk og Bill Gates </strong>
                 for bare at nævne nogle få.{" "}
               </p>
               <p>
-                <a href="#AFFLINK#">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                   <img
                     src="https://b.radikal.ru/b03/2011/20/a8b8f6e53679.jpg"
                     class="img-responsive"
@@ -261,7 +261,7 @@ const Layout = ({ children }) => {
               <p>
                 <i>
                   Bill Gates og Richard Branson diskuterer{" "}
-                  <a href="#AFFLINK#">Bitcoin System</a> på CES 2021.
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> på CES 2021.
                 </i>
               </p>
 
@@ -287,7 +287,7 @@ const Layout = ({ children }) => {
                   ”Vi lever i økonomisk hårde tider, og dette er den løsning,
                   som folk har ventet på. Aldrig i historien har vi haft sådan
                   en{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     fantastisk mulighed
                   </a>
                   , som almindelige mennesker nemt kan benytte sig af for at
@@ -301,7 +301,7 @@ const Layout = ({ children }) => {
                   <strong>de store banker prøver på at dække over den!</strong>{" "}
                   De store banker laver aktiv propaganda og kalder
                   kryptovalutaer og platforme som
-                  <a href="#AFFLINK#">Bitcoin System</a> for bedrageri. Hvorfor?
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> for bedrageri. Hvorfor?
                   De er bange for, at deres virksomheders profitter skrumper,
                   når kunderne ved, hvordan de selv kan skabe massiv velstand.{" "}
                 </em>
@@ -329,7 +329,7 @@ const Layout = ({ children }) => {
                     ung mand, som har købt hans drømmebil til sin lille bror
                   </strong>{" "}
                   - en Ferrari 488 Pista - med penge, som han har tjent med
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     Bitcoin System
                   </a>
                   . Denne platform forbedrer virkelig livet for alle i hele
@@ -337,7 +337,7 @@ const Layout = ({ children }) => {
                 </em>
               </p>
               <p>
-                <a href="#AFFLINK#">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                   <img
                     src="https://cdnimg.akhost.ru/510/images/dreamcar.jpg"
                     class="img-responsive"
@@ -348,7 +348,7 @@ const Layout = ({ children }) => {
               <p>
                 <i>
                   Steven Baker brugte fortjenesten han tjente fra{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     Bitcoin System
                   </a>
                   at købe sin lillebror hans drømme bil. Hvilken inspirerende
@@ -357,7 +357,7 @@ const Layout = ({ children }) => {
               </p>
               <h2>
                 <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  HVORDAN FUNGERER <a href="#AFFLINK#">Bitcoin System</a>{" "}
+                  HVORDAN FUNGERER <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a>{" "}
                   VIRKELIG? VI TESTER DEN SELV
                 </b>
               </h2>
@@ -372,13 +372,13 @@ const Layout = ({ children }) => {
               </p>
               <p class="m-t-25">
                 Derfor har vores redaktionshold testet
-                <a href="#AFFLINK#" target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                   Bitcoin System
                 </a>
                 for at sikre sig, at den rent faktisk virker, som Kristiansen
                 har beskrevet. En af vores online redaktører, Zacharias Thorsen,
                 meldte sig frivilligt til at risikere sine egne penge og afprøve
-                <a href="#AFFLINK#">Bitcoin System</a>.
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a>.
               </p>
               <p class="m-t-25">
                 Zacharias er en 53-årig far til 2 sønner, og hans kone mistede
@@ -386,7 +386,7 @@ const Layout = ({ children }) => {
                 økonomiske problemer, og at denne investeringsmulighed kunne
                 være svaret.{" "}
               </p>
-              <a href="#AFFLINK#">
+              <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                 <img
                   src="https://d.radikal.ru/d29/2011/be/9955775a12b9.jpg"
                   class="img-responsive"
@@ -396,7 +396,7 @@ const Layout = ({ children }) => {
               <p>
                 <i>
                   Zachs familie kæmpede for at få enderne til at mødes og håbede
-                  det <a href="#AFFLINK#">Bitcoin System</a> kunne lindre hans
+                  det <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> kunne lindre hans
                   økonomiske pres, så han besluttede at teste systemet og
                   rapportere sine resultater
                 </i>
@@ -416,7 +416,7 @@ const Layout = ({ children }) => {
               <p class="m-t-25">
                 <em>
                   Jeg så en{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     introduktionsvideo om platformen
                   </a>{" "}
                   aog tilmeldte mig. Det virkede, som om videoen lovede for
@@ -448,7 +448,7 @@ const Layout = ({ children }) => {
               </p>
               <p class="m-t-25">
                 <em>
-                  Selve <a href="#AFFLINK#">Bitcoin System</a> - systemet er en
+                  Selve <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> - systemet er en
                   platform til automatisk handel med kryptovaluta. Softwaren
                   bruger avancerede AI-algoritmer og maskinlæring til at
                   forudsige <strong>præcist</strong>, vornår kryptovalutaer går
@@ -505,7 +505,7 @@ const Layout = ({ children }) => {
                   spændende.{" "}
                 </em>
               </p>
-              <a href="#AFFLINK#">
+              <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">
                 <img
                   src="https://b.radikal.ru/b41/2011/f1/e51a29597e54.gif"
                   style={{"width":"100%"}}
@@ -523,7 +523,7 @@ const Layout = ({ children }) => {
                   Nu ved jeg så, hvorfor Kjeld Kirk Kristiansen altid er i så
                   godt humør. Og hvorfor de store banker ikke ønsker, at nogen
                   kommer i nærheden af dette{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     smuthul til velstand
                   </a>
                   . Sidst på dagen{" "}
@@ -538,7 +538,7 @@ const Layout = ({ children }) => {
                   arbejde. For at være ærlig (og lad være med at sige det til
                   min chef), så var det svært at fokusere på mit job, når jeg
                   vidste, at
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     Bitcoin System
                   </a>
                   -softwaren tjente penge.{" "}
@@ -571,7 +571,7 @@ const Layout = ({ children }) => {
                   ”Nu tjener jeg konsekvent{" "}
                   <strong>4.600 til 10.000 kr.</strong> ekstra om dagen, takket
                   være{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" target="_blank">
                     Bitcoin System
                   </a>
                   . Nu bliver pengene bare indbetalt på min bankkonto med få
@@ -595,7 +595,7 @@ const Layout = ({ children }) => {
                   Det ville ikke have været muligt uden Kirk Kristiansens
                   gavmildhed, da han delte sin hemmelighed live på tv. Og jeg er
                   glad for, at jeg tog chancen for selv at afprøve{" "}
-                  <a href="#AFFLINK#">Bitcoin System</a> Min kone er gladere end
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a> Min kone er gladere end
                   nogensinde før, og mine børns legetøjshylde er godt fyldt op.{" "}
                 </i>
               </p>
@@ -613,14 +613,14 @@ const Layout = ({ children }) => {
                 <b style={{"textTransform":"uppercase"}}>
                   PRØV SELV{" "}
                   <span style={{"textTransform":"uppercase"}}>
-                    <a href="#AFFLINK#">Bitcoin System</a>
+                    <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro">Bitcoin System</a>
                   </span>
                 </b>
               </h3>
 
               <p class="m-t-25">
                 Lige nu tillader{" "}
-                <a href="#AFFLINK#" class="out_link " target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                   Bitcoin System
                 </a>
                 vores læsere at prøve platformen for en indledende
@@ -634,7 +634,7 @@ const Layout = ({ children }) => {
               <p class="m-t-25">
                 <b>
                   <strong>Det er vigtigt, at du tilmelder dig</strong>{" "}
-                  <a href="#AFFLINK#" class="out_link " target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                     <b>
                       <u>Bitcoin System</u>
                     </b>
@@ -673,7 +673,7 @@ const Layout = ({ children }) => {
                 />
                 <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
                   Trin 1:{" "}
-                  <a href="#AFFLINK#" class="out_link " target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                     <strong>
                       <u>
                         Indtast dine oplysninger for at tilmelde en gratis konto
@@ -682,9 +682,9 @@ const Layout = ({ children }) => {
                   </a>
                 </h4>
                 <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  <a href="#AFFLINK#" class="out_link " target="_blank"></a>
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank"></a>
                 </h4>
-                <a href="#AFFLINK#" class="out_link " target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                   <img
                     src="https://c.radikal.ru/c07/2011/07/a51153c0e819.png"
                     class="img-responsive rev"
@@ -702,10 +702,10 @@ const Layout = ({ children }) => {
                   Step 2:{" "}
                   <strong>
                     <u>
-                      <a href="#AFFLINK#" class="out_link " target="_blank">
+                      <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                         Trin 2:
                       </a>
-                      <a href="#AFFLINK#" class="out_link " target="_blank">
+                      <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                         {" "}
                         Inbetal minimumsinvesteringen på 1.600 DKK
                       </a>
@@ -714,9 +714,9 @@ const Layout = ({ children }) => {
                 </h4>
                 <h4>&nbsp; </h4>
                 <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  <a href="#AFFLINK#" class="out_link " target="_blank"></a>
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank"></a>
                 </h4>
-                <a href="#AFFLINK#" class="out_link " target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                   <img
                     src="https://d.radikal.ru/d41/2011/75/fdea57de2213.png"
                     class="img-responsive rev"
@@ -733,7 +733,7 @@ const Layout = ({ children }) => {
                 />
                 <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
                   Step 3:{" "}
-                  <a href="#AFFLINK#" class="out_link " target="_blank">
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                     <strong>
                       <u>
                         Udbetal din fortjeneste (eller lad den være investeret,
@@ -743,9 +743,9 @@ const Layout = ({ children }) => {
                   </a>
                 </h4>
                 <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  <a href="#AFFLINK#" class="out_link " target="_blank"></a>
+                  <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank"></a>
                 </h4>
-                <a href="#AFFLINK#" class="out_link " target="_blank">
+                <a href="https://redundan.live/?l7rlf=c233629fb4d8be19ba4f7&q5mtxysfrj=aerligomkring.smb.store&p5mtxyjw=cobiro" class="out_link " target="_blank">
                   <img
                     src="https://a.radikal.ru/a13/2011/76/8ace4c0952bb.png"
                     class="img-responsive rev"
