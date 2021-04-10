@@ -1,0 +1,43 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+h2 a,
+h3 a {
+  color: inherit !important;
+}
+
+strong {
+  font-weight: bold !important;
+}
+
+.sc-w {
+  color: #000;
+}
+
+.outer {
+  max-width: 740px !important;
+  margin: 0 auto !important;
+  padding: 0 10px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px !important;
+}
+
+.img-responsive {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+a {
+  line-height: 33px !important;
+  color: blue !important;
+  text-decoration: underline !important;
+}
+
+img {
+  margin: 0 auto;
