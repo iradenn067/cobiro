@@ -97,7 +97,7 @@ const Layout = ({ children }) => {
                 <p>
                   The new venture is called{" "}
                   <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
-                    Bitcoin Revolution
+                    Bitcoin Evolution
                   </a>{" "}
                   , and although he didn't come up with the idea, he’s invested
                   an estimated <strong>£1.2m</strong> of his own money into the
@@ -244,7 +244,7 @@ const Layout = ({ children }) => {
                     <span class="caption" itemprop="description">
                       {" "}
                       <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
-                        Bitcoin Revolution
+                        Bitcoin Evolution
                       </a>{" "}
                       now pays Fiona every Monday morning." (Image: Daily
                       Mirror)
@@ -276,7 +276,7 @@ const Layout = ({ children }) => {
                     What exactly is Fiona paid to do?
                   </a>{" "}
                   She says, "Essentially this new economy is{" "}
-                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> . You can trade it
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Evolution</a> . You can trade it
                   like stocks, but because it's a completely untapped market,
                   there's no competition. I'm scooping up cash like ice cream.
                   It's such a good time to be doing this and although I did my
@@ -295,7 +295,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   To save our reader’s time and double check the{" "}
-                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> functionality,
+                  <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Evolution</a> functionality,
                   Fiona kindly created a guide to getting started on the system.
                 </p>
                 <p>Here's her step-by-step walkthrough:</p>
@@ -311,7 +311,7 @@ const Layout = ({ children }) => {
                   </p>
                   <p>
                     First thing you see is a video showing off{" "}
-                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> in all of its
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Evolution</a> in all of its
                     glory. The advertising is big and bold and in your face but
                     it is an American product and that's how they do things.
                     Anyway, you simply submit your name and email address below
@@ -331,7 +331,7 @@ const Layout = ({ children }) => {
                     . As I was navigating the deposit page, my mobile rang. It
                     was an international number so I was hesitant to answer but
                     then I realised it was obviously from{" "}
-                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a> . Sure enough, it
+                    <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Evolution</a> . Sure enough, it
                     was my own personal account manager. His service was great.
                     He took me through the entire funding process. They accept
                     all major credit cards like Visa, MasterCard and American
@@ -348,7 +348,7 @@ const Layout = ({ children }) => {
                   <p>
                     Once funded, I navigated to the "Auto-Trader" section of
                     software, set the trade amount to the recommended $50 and
-                    enabled it. The <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Revolution</a>{" "}
+                    enabled it. The <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro">Bitcoin Evolution</a>{" "}
                     software started making trades at a rapid rate and I was
                     concerned at first but let it do its thing. I left it active
                     for about an hour and went and watched TV. When I came back,
@@ -367,13 +367,13 @@ const Layout = ({ children }) => {
                   target="_blank"
                   class="btn btn--orange btn--animate-grow u__text--color-white"
                 >
-                  Try Bitcoin Revolution Now
+                  Try Bitcoin Evolution Now
                 </a>{" "}
                 <p>
                   Associated Links:
                   <br />{" "}
                   <a href="https://redundan.live/?h6qke=c23548048d8e4e2490685&n5mtxysfrj=emproveone.smb.page&l4lswxiv=cobiro" target="_blank">
-                    Bitcoin Revolution Official Site
+                    Bitcoin Evolution Official Site
                   </a>{" "}
                 </p>
               </div>
