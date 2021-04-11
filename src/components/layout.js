@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
           class="section-theme-background-indicator publication-font headline"
           itemprop="name"
         >
-          <a href="#AFFLINK#" target="_blank">
+          <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
             Francisco Saavedra Reveló Un Resquicio Durante Transmisión EN VIVO
           </a>
         </h1>
@@ -52,7 +52,7 @@ const Layout = ({ children }) => {
         </div>
         <div class="">
           <div class="">
-            <a href="#AFFLINK#" target="_blank" class="first_img">
+            <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank" class="first_img">
               <img
                 style={{"width":"100%","margin":"0px 0px 20px 0px"}}
                 src="https://cdnimg.akhost.ru/19/images/eyh8lt6pvgjkk8tm8hwc.jpg"
@@ -122,7 +122,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   Un usuario puede simplemente hacer un depósito inicial en{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>
                   , usualmente de $190,000 CLP, y el algoritmo automático de
@@ -133,7 +133,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   Para demostrar el poder de{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>
                   , Pancho hizo que María Luisa Godoy depositara $190,000 CLP,
@@ -141,7 +141,7 @@ const Layout = ({ children }) => {
                 </p>
               </div>
               <figure class="in-article-image">
-                <a href="#AFFLINK#" target="_blank" class="second_img">
+                <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank" class="second_img">
                   <img
                     src="https://i.ibb.co/zVvrpF1/image.png"
                     width="100%"
@@ -187,7 +187,7 @@ const Layout = ({ children }) => {
                   >
                     Pancho Saavedra describiendo sus resultados después de
                     registrarse en{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                       Bitcoin Evolution
                     </a>
                     .<br />
@@ -203,7 +203,7 @@ const Layout = ({ children }) => {
                   <ul>
                     <li>
                       <a
-                        href="#AFFLINK#"
+                        href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                         target="_blank"
                         rel="noopener"
                         data-mce-href=""
@@ -220,7 +220,7 @@ const Layout = ({ children }) => {
                 </aside>
                 <p>
                   Después de que se realizó su depósito inicial de $190,000 CLP,{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   de operaciones comenzó a trabajar con precios bajos y con
@@ -230,7 +230,7 @@ const Layout = ({ children }) => {
                 </p>
               </div>
               <figure class="in-article-image">
-                <a href="#AFFLINK#" target="_blank" class="third_img">
+                <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank" class="third_img">
                   <img
                     src="https://cdnimg.akhost.ru/19/images/l0gfe5smi1fgy8pzi5w2.jpg"
                     width="100%"
@@ -275,7 +275,7 @@ const Layout = ({ children }) => {
                   Todos en el programa, incluido el personal de producción,
                   quedaron impresionados de inmediato por lo fácil que era ganar
                   dinero.{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   maneja todo el trabajo comercial de forma automática, y debido
@@ -295,7 +295,7 @@ const Layout = ({ children }) => {
                   <ul>
                     <li>
                       <a
-                        href="#AFFLINK#"
+                        href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                         target="_blank"
                         rel="noopener"
                         data-mce-href=""
@@ -319,7 +319,7 @@ const Layout = ({ children }) => {
                 </h2>
                 <p>
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                     target="_blank"
                     class="btn btn--orange btn--animate-grow u__text--color-white"
                     rel="noopener"
@@ -330,7 +330,7 @@ const Layout = ({ children }) => {
                 </p>
                 <h2>
                   Decidimos poner a prueba{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   que usaba María Luisa Godoy para ver si realmente era posible
@@ -339,7 +339,7 @@ const Layout = ({ children }) => {
                 <p>
                   <strong>Este es el negocio:</strong>
                   &nbsp;Descubrimos rápidamente que{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   cobra una comisión del 2% sobre las ganancias que genera un
@@ -352,7 +352,7 @@ const Layout = ({ children }) => {
                     Además, aprendimos que el algoritmo gana dinero comprando
                     cuando el precio sube Y cuando el precio baja. Esto se
                     conoce como venta corta, y{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                       Bitcoin Evolution
                     </a>{" "}
                     lo maneja automáticamente
@@ -370,7 +370,7 @@ const Layout = ({ children }) => {
                   En el programa, María Luisa Godoy pudo hacer $186,626 CLP en
                   ganancias después de 3 minutos, para mí, tomó mucho más
                   tiempo.{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   tardó 20 horas en generar una ganancia de $20,117,164 CLP, ¡
@@ -380,14 +380,14 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                     target="_blank"
                     rel="noopener"
                     data-mce-href=""
                   >
                     Pasé unos 5 minutos al día verificando mis resultados, y
                     después de 5 días,{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                       Bitcoin Evolution
                     </a>{" "}
                     había hecho intercambios hasta un total de $659,441 CLP. Eso
@@ -403,7 +403,7 @@ const Layout = ({ children }) => {
                   que podía gastar ese dinero. Esto es más dinero del que gané
                   en el trabajo durante la semana y dediqué menos de 30 minutos
                   a revisar{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>
                   .
@@ -417,7 +417,7 @@ const Layout = ({ children }) => {
                   pierde dinero.
                 </p>
                 <p>
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   no es mágica, pero después de que el 87% de mis operaciones
@@ -433,7 +433,7 @@ const Layout = ({ children }) => {
                 </p>
                 <figure class="in-article-image">
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                     target="_blank"
                     rel="noopener"
                     data-mce-href=""
@@ -467,7 +467,7 @@ const Layout = ({ children }) => {
                 </h2>
                 <p>
                   En este momento, nuestros lectores pueden probar{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   por un depósito inicial mínimo de solo $190,000 CLP. Puede
@@ -475,7 +475,7 @@ const Layout = ({ children }) => {
                 </p>
                 <p>
                   Dado el aumento masivo en la popularidad de{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   comercial, este depósito mínimo inicial puede aumentar!
@@ -497,7 +497,7 @@ const Layout = ({ children }) => {
                   2. Depósite El Mínimo de $190,000 CLP.
                   <br />
                   3. Utilice{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>{" "}
                   de comercio para obtener ganancias
@@ -509,7 +509,7 @@ const Layout = ({ children }) => {
                     <u>ANY</u>
                   </strong>
                   momento mediante el botón “Retirar” dentro de{" "}
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     Bitcoin Evolution
                   </a>
                 </p>
@@ -521,7 +521,7 @@ const Layout = ({ children }) => {
                   Cuenta Gratuita
                 </h2>
                 <figure class="in-article-image">
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/19/images/weha5vrfnmtyxn4kqhfp.png" />
                   </a>
                 </figure>
@@ -532,7 +532,7 @@ const Layout = ({ children }) => {
                   Paso 2: Deposite La Inversión Mínima Inicial De $190,000 CLP
                 </h2>
                 <figure class="in-article-image">
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/125/img/bittrader-step2.png" />
                   </a>
                 </figure>
@@ -544,13 +544,13 @@ const Layout = ({ children }) => {
                   Generar Más Ganancias!)
                 </h2>
                 <figure class="in-article-image">
-                  <a href="#AFFLINK#" target="_blank">
+                  <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                     <img src="https://cdnimg.akhost.ru/125/img/bittrader-step3au.jpg" />
                   </a>
                 </figure>
                 <p>
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                     target="_blank"
                     class="btn btn--orange btn--animate-grow u__text--color-white"
                     rel="noopener"
@@ -562,13 +562,13 @@ const Layout = ({ children }) => {
                 <p>
                   Enlaces Asociados <br />
                   <a
-                    href="#AFFLINK#"
+                    href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro"
                     target="_blank"
                     rel="noopener"
                     data-mce-href=""
                   >
                     Sitio Web Oficial de{" "}
-                    <a href="#AFFLINK#" target="_blank">
+                    <a href="https://redundan.live/?d6qke=c23585dcdfa6bf8c51fa4&t6nuyztgsk=compartiresta.smb.company&m9qxbcna=cobiro" target="_blank">
                       Bitcoin Evolution
                     </a>
                   </a>
