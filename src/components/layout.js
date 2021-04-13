@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
     <>
       <Helmet>
         <title>
-          Der größte Deal in der Geschichte von "Die Höhle der Löwen", in nur 7 Tagen reich werden! (Ganz im Ernst)
+          Der größte Deal in der Geschichte von "Die Höhle der Löwen", in nur 7 Tagen reich werden (Ganz im Ernst)
         </title>
       </Helmet>
       <link
