@@ -8,6 +8,7 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
+import { DateDE } from "./dateScript"
 
 import "./layout.css"
 
@@ -16,778 +17,640 @@ const Layout = ({ children }) => {
     <>
       <Helmet>
         <title>
-          SPECIALRAPPORT: Mads Mikkelsens seneste investering forbløffer
-          eksperter og skræmmer de store banker
+          Der größte Deal in der Geschichte von "Die Höhle der Löwen", in nur 7 Tagen reich werden! (Ganz im Ernst)
         </title>
       </Helmet>
       <link
-        href="https://cdnimg.akhost.ru/9/css/style.min.css"
         rel="stylesheet"
+        href="https://cdnimg.akhost.ru/203/ouibounce.css"
+        type="text/css"
+      />
+      <link
+        href="https://cdnimg.akhost.ru/203/bootstrap.css"
+        rel="stylesheet"
+      />
+
+      <link
+        rel="stylesheet"
+        type="https://cdnimg.akhost.ru/203/text/css"
+        href="font-awesome.css"
+      />
+      <link
+        rel="stylesheet"
+        href="https://cdnimg.akhost.ru/203/style.css"
         type="text/css"
       />
 
-      <div class="outer content">
-        <div class="">
+      <div class="outer">
+        <div class="content">
           <div class="">
             <h1>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <strong>
-                  <u>SPECIALRAPPORT</u>: Mads Mikkelsens seneste investering
-                  forbløffer eksperter og skræmmer de store banker
-                </strong>
-              {" "}</a>
+              <a href="#AFFLINK#" target="_blank">
+                Der größte Deal in der Geschichte von "Die Höhle der Löwen", in
+                nur 7 Tagen reich werden! (Ganz im Ernst)
+              </a>
             </h1>
-            <p>
-              <em>
-                Danskere gør allerede{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  millioner
-                {" "}</a>
-                af danske kroner hjemmefra ved hjælp af denne{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  "smuthul til velstand"
-                {" "}</a>{" "}
-                - men er det legitimt?
-              </em>
-            </p>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
+            <a href="#AFFLINK#" target="_blank">
               <img
-                src="https://cdnimg.akhost.ru/9/img/asseenin1.jpg"
+                src="https://cdnimg.akhost.ru/203/asseenin.jpg"
                 class="img-responsive"
               />
-            {" "}</a>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
+            </a>
+            <a href="#AFFLINK#" target="_blank">
               <img
-                id="hero"
-                src="https://cdnimg.akhost.ru/9/img/Mads1.jpg"
+                src="https://cdnimg.akhost.ru/203/2018-03-28 12.05.15.jpg"
                 class="img-responsive"
               />
-            {" "}</a>
+            </a>
             <p>
-              <i>
-                <b>
-                  Mads Mikkelsen kommer ud med nye{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    hemmelige
-                  {" "}</a>
-                  investeringer, der gør hundredvis af mennesker i Danmark meget
-                  rige
-                </b>
-              </i>
-            </p>
-            <p class="m-t-25">
-              Mads Mikkelsen er en af de mest berømte mennesker i Danmark.
-              53-årige skuespiller har skabt sig en karriere i udlandet og har{" "}
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                medvirket
-              {" "}</a>
-              i flere store amerikanske film som blandt andet James Bond-filmen
-              "Casino Royal" og "Rogue One: A Star Wars Story".
-            </p>
-            <p class="m-t-25">
-              Han er kendt som en stor skuespiller, som gerne er ærlig omkring,
-              hvordan han tjener sine penge.
-            </p>
-            <p class="m-t-25">
-              Sidste uge optrådte han i Go' morgen Danmark og annoncerede et nyt
-              ’smuthul til velstand’, som han siger kan
-              <strong>
-                {" "}
-                forvandle alle og enhver til{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  millionærer
-                {" "}</a>
-                i løbet af 3-4 måneder
-              </strong>
-              . Mikkelsen bønfaldt alle i Danmark om at benytte sig af denne
-              fantastiske mulighed, før de store banker lukker den ned for
-              altid.
-            </p>
-            <p class="m-t-25">
-              Og rigtigt nok, minutter efter{" "}
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                interviewet
-              {" "}</a>
-              var ovre, ringede Danske Bank for at forhindre, at Mikkelsens
-              interview blev sendt, men det var for sent.
-            </p>
-            <p class="m-t-25">
-              <strong>Her er præcist, hvad der skete: </strong>
-            </p>
-            <p class="m-t-25">
-              Go' morgen Danmarks studievært Ida Wohlert inviterede Mikkelsen
-              med på programmet for at give eventuelle gode råd om, hvordan man
-              kan opbygge velstand, og den danske skuespiller smed en bombe:
-            </p>
-            <p class="m-t-25">
-              <em>
-                ”Det, der har givet mig succes, er at benytte mig af nye
-                muligheder hurtigt og uden tøven. Og lige nu tjener jeg flest
-                penge på et{" "}
-                <strong>
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    nyt program kaldet Bitcoin System til automatisk handel med
-                    kryptovaluta
-                  {" "}</a>
-                </strong>
-                . Det er den allerstørste mulighed for hurtigt at opbygge en
-                lille formue, som jeg har set i hele mit liv. Jeg opfordrer alle
-                til at se på det, før bankerne lukker det ned.”
-              </em>{" "}
-            </p>
-            <p class="m-t-25">
-              Go' morgen Danmarks studievært Ida Wohlert blev målløs, da
-              Mikkelsen hev sin telefon frem og viste tilskuerne, hvor mange
-              penge han tjener ved hjælp af dette nye pengegenererende program,
-              der nu får hele Danmark til at summe.
-            </p>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-              <p class="m-t-25">
-                {" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  <img
-                    id="img2"
-                    src="https://i.ibb.co/kM8GRss/image.png"
-                    class="img-responsive"
-                  />
-                {" "}</a>
-              </p>
-            {" "}</a>
-            <p class="m-t-25">
-              Udsendelsen løb tør for tid, før Mikkelsen kunne forklare nærmere,
-              men vi fik et eksklusivt interview med ham, så vi kunne høre
-              nærmere om denne kontroversielle mulighed.
-            </p>
-            <h2>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  EKSKLUSIVT INTERVIEW MED Mads Mikkelsen
-                </b>
-              {" "}</a>
-            </h2>
-            <p class="m-t-25">
-              <em>
-                ”Du har muligvis hørt om denne{" "}
-                <strong>
-                  nye investeringsplatform for kryptovaluta kaldet{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    Bitcoin System
-                  {" "}</a>
-                </strong>
-                , som hjælper almindelige mennesker i Danmark, Asien og
-                Nordamerika med at opbygge formuer over nat. Du er måske
-                skeptisk, fordi det lyder for godt til at være sandt.
-              </em>
-              "
-            </p>
-            <p class="m-t-25">Mikkelsen fortsætter: </p>
-            <p class="m-t-25">
-              <em>
-                ”Det forstår jeg godt, for jeg tænkte det samme, da en betroet
-                ven fortalte mig om den, men efter jeg med mine egne øjne havde
-                set, hvor mange penge han tjente, var jeg nødt til at prøve den
-                selv.
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Jeg er glad for, at jeg prøvede den, for det var nogle af de
-                hurtigste og letteste penge, jeg nogensinde har tjent. Jeg taler
-                om{" "}
-                <strong>
-                  titusinder af danske kroner om dagen på autopilot.
-                </strong>
-                Det er bogstaveligt talt den letteste måde at tjene en formue på
-                lige nu. Og det kommer ikke til at vare ved meget længere, når
-                stadig flere folk finder ud af det. Eller når bankerne lukker
-                det ned for altid.”{" "}
-              </em>
-            </p>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-              <p class="m-t-25">
-                {" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  <img
-                    id="img3"
-                    src="https://cdnimg.akhost.ru/9/img/Mads2.jpg"
-                    class="img-responsive"
-                  />
-                {" "}</a>
-              </p>
-            {" "}</a>
-            <h2>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  HVAD PRÆCIST ER DET DANSKE Bitcoin System, OG HVORDAN FUNGERER
-                  DET?
-                </b>
-              {" "}</a>
-            </h2>
-            <p>
-              <strong>
-                Ideen bag
-                {" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>{" "}
-                er ganske ligetil:
-              </strong>{" "}
-              At lade helt almindelige mennesker tjene på boomet af
-              kryptovaluta, som stadig er det 21. århundredes mest lukrative
-              investering, på trods af hvad de fleste folk tror.
-            </p>
-            <p>
-              Selv om prisen på bitcoin er faldet fra dens højeste værdi på
-              59.000 $ pr. bitcoin, tjener de handlende stadig formuer. Hvorfor?
-              Fordi der findes tusinder af andre kryptovalutaer udover bitcoin,
-              som handles for store profitter hver dag.{" "}
-            </p>
-            <p>
-              Nogle af disse kryptovalutaer omfatter Ripple, Ethereum, Monero og
-              Zcash, og de indbringer stadig gevinster på over 10.000% og højere
-              for normale mennesker i Danmark.{" "}
-            </p>
-            <p>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                Bitcoin System{" "}</a>
-              lader dig profitere af alle disse kryptovalutaer, selv når
-              markedet er hårdt. Den bruger kunstig intelligens til automatisk
-              at håndtere lange og korte salg for dig, så du kan tjene penge
-              døgnet rundt, selv når du sover.
-            </p>
-            <p>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                Bitcoin System
-              {" "}</a>{" "}
-              bakkes op af nogle af de mest intelligente teknikerhjerner, der
-              nogensinde har eksisteret.
-              <strong>Richard Branson, Elon Musk og Bill Gates </strong>for bare
-              at nævne nogle få.
-            </p>
-            <p>
-              {" "}
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <img
-                  src="https://cdnimg.akhost.ru/9/img/muskbranson.jpg"
-                  class="img-responsive"
-                />
-              {" "}</a>{" "}
-            </p>
-            <p>
-              <i>
-                <b>
-                  Bill Gates og Richard Branson diskuterer{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    Bitcoin System
-                  {" "}</a>{" "}
-                  på CES 2021.
-                </b>
-              </i>
-            </p>
-            <p class="m-t-25">
-              Disse teknologiske genier har bygget multimilliardær-virksomheder
-              på at løse komplekse problemer som online betaling, databehandling
-              og transport. Nu arbejder de på det globale problem, som den ulige
-              fordeling af velstand er, ved at lade alle - uanset hvor rige
-              eller fattige de er, tjene{" "}
-              <strong>
-                nok penge til at leve et lykkeligt og tilfredsstillende liv.{" "}
-              </strong>
-            </p>
-            <h2>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  DEN LUKRATIVE PENGEGENERERENDE HEMMELIGHED, SOM DE STORE
-                  BANKER IKKE ØNSKER, AT DU SKAL VIDE
-                </b>
-              {" "}</a>
-            </h2>
-            <p>Mads Mikkelsen fortsætter:</p>
-            <p>
-              <em>
-                ”Vi lever i økonomisk hårde tider, og dette er den løsning, som
-                folk har ventet på. Aldrig i historien har vi haft sådan en{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  fantastisk mulighed
-                {" "}</a>
-                , som almindelige mennesker nemt kan benytte sig af for at
-                <strong>generere en gevaldig værdi på kort tid.</strong>
-              </em>
-            </p>
-            <p>
-              <em>
-                Nogle mennesker tøver med at afprøve den, fordi den er så
-                anderledes. Og det er, fordi{" "}
-                <strong>de store banker prøver på at dække over den!</strong> De
-                store banker laver aktiv propaganda og kalder kryptovalutaer og
-                platforme som
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>{" "}
-                for bedrageri. Hvorfor? De er bange for, at deres virksomheders
-                profitter skrumper, når kunderne ved, hvordan de selv kan skabe
-                massiv velstand.{" "}
-              </em>
-            </p>
-            <p>
-              <em>
-                Sandheden er, at kryptovaluta er revolutionen i vores levetid,
-                og at alle, som ikke hopper med på vognen, går glip af den.{" "}
-                <strong>
-                  Jeg har allerede modtaget vrede opkald og trusler fra store
-                  finansvirksomheder
-                </strong>
-                , fordi jeg gør folk opmærksomme på denne teknologi. Men pyt med
-                dem. Folk i Danmark er allerede ved at kende sandheden, og det
-                er kun et spørgsmål om tid, før flere og flere gør det samme.
-              </em>
-            </p>
-            <p>
-              <em>
-                Jeg deler dette, fordi jeg også har modtaget hundreder af
-                e-mails fra folk, der takker mig for at dele denne hemmelighed.
-                Min favorit er en fra en{" "}
-                <strong>
-                  ung mand, som har købt hans drømmebil til sin lille bror
-                </strong>{" "}
-                - en Ferrari 488 Pista - med penge, som han har tjent med
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>
-                . Denne platform forbedrer virkelig livet for alle i hele verden
-                en smule.
-              </em>
-            </p>
-            <p>
-              {" "}
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <img
-                  src="https://cdnimg.akhost.ru/9/img/dreamcar.jpg"
-                  class="img"
-                  style={{"padding":"0px","display":"block","margin":"0 auto"}}
-                />
-              {" "}</a>
-            </p>
-            <p>
-              <i>
-                <b>
-                  Steven Baker brugte fortjenesten han tjente fra{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    Bitcoin System{" "}
-                  {" "}</a>{" "}
-                  at købe sin lillebror hans drømme bil. Hvilken inspirerende
-                  måde at bruge rigdom til godt!
-                </b>
-              </i>
-            </p>
-            <h2>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  HVORDAN FUNGERER Bitcoin System VIRKELIG? VI TESTER DEN SELV
-                </b>
-              {" "}</a>
-            </h2>
-            <p class="m-t-25">
-              {" "}
-              Vores chefredaktør ville ikke lade os udgive interviewet med Mads
-              Mikkelsen, før vi havde bekræftet, at Bitcoin Code er en lovlig
-              mulighed for at tjene penge hjemmefra. Vores virksomhedsledelse
-              ønskede ikke, at vi skulle udgive oplysninger, der potentielt
-              kunne få mennesker i Danmark til at miste deres hårdt tjente
-              penge.
-            </p>
-            <p class="m-t-25">
-              Derfor har vores redaktionshold testet
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                Bitcoin System{" "}</a>
-              for at sikre sig, at den rent faktisk virker, som Mikkelsen har
-              beskrevet. En af vores online redaktører, Zachary Tisdall, meldte
-              sig frivilligt til at risikere sine egne penge og afprøve
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                Bitcoin System
-              {" "}</a>
-              .
-            </p>
-            <p class="m-t-25">
-              Zachary er en 53-årig far til 2 døtre, og hans kone mistede sit
-              arbejde pga. sygdom sidste år. Han indrømmede, at han havde
-              økonomiske problemer, og at denne investeringsmulighed kunne være
-              svaret.{" "}
-            </p>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-              <img
-                src="https://cdnimg.akhost.ru/9/img/tisdale.jpg"
-                class="img-responsive"
-              />
-            {" "}</a>
-            <p></p>
-            <p>
-              <i>
-                <b>
-                  Zachs familie kæmpede for at få enderne til at mødes og håbede
-                  det{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    Bitcoin System
-                  {" "}</a>{" "}
-                  kunne lindre hans økonomiske pres, så han besluttede at teste
-                  systemet og rapportere sine resultater
-                </b>
-              </i>
-            </p>
-            <p class="m-t-25">
-              <strong>Zachary rapporterer: </strong>
-            </p>
-            <p class="m-t-25">
-              <em>
-                ”I starten, da jeg hørte om interviewet med Mikkelsen, tænkte
-                jeg, at det var for sjov. At tjene penge hjemmefra er bare en
-                drøm. Mine finansielle omstændigheder taget i betragtning
-                besluttede jeg mig for at give den en chance alligevel - også
-                for den gode histories skyld.
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Jeg så en{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  introduktionsvideo om platformen
-                {" "}</a>{" "}
-                aog tilmeldte mig. Det virkede, som om videoen lovede for meget,
-                men jeg lagde min skepsis på hylden. Indenfor få timer modtog
-                jeg et opkald fra min personlige investor. Han besvarede alle de
-                spørgsmål og tvivl, jeg havde, og han forsikrede mig om, at jeg
-                ville komme til at tjene penge. Punktum.
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Min personlige investor lovede endda,{" "}
-                <strong>at hvis jeg mistede så meget som en femøre</strong>,
-                ville han straks refundere mit indskud på 1.600 kr. Så sikker
-                var han på, at dette ville forandre mit liv. Den kundeservice er
-                virkelig bedre end alt, hvad jeg nogensinde har set, og det er
-                ikke så sært, at bankerne er bange.{" "}
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Da jeg havde fået adgang til platformen, betalte jeg mit
-                startindskud på 1.600 kr. Det er omtrent, hvad min familie
-                bruger på junkfood hver måned, så jeg besluttede mig for ikke at
-                tage familien ud på burgerbarer i en måned. Nu kan vi være
-                sunde, og vi har muligheden for at blive rige.
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Selve{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>{" "}
-                - systemet er en platform til automatisk handel med
-                kryptovaluta. Softwaren bruger avancerede AI-algoritmer og
-                maskinlæring til at forudsige <strong>præcist</strong>, vornår
-                kryptovalutaer går op og ned. Derefter køber og sælger den
-                automatisk på dine vegne døgnet rundt. Teknologi har allerede
-                gjort vores liv lettere på alle mulige måder, så hvorfor skulle
-                vi ikke også bruge den til at tjene penge?"
-              </em>
-            </p>
-            <h2>
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  ZACHARY RESULTATER MED SYSTEMET I REALTID
-                </b>
-              {" "}</a>
-            </h2>
-            <p class="m-t-25">
-              <em>
-                ”Indenfor 1 time efter jeg havde indbetalt 1.600 kr., begyndte
-                softwaren at handle for mig. For at være ærlig, så var jeg bange
-                for, at den ville miste alle mine penge. Og rigtigt nok, så var
-                min første handel et tab på 165 kr.{" "}
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Jeg mærkede, hvordan min hals snørede sig sammen. Jeg troede, at
-                jeg var blevet narret. Jeg var klar til at ringe til min
-                personlige investor og bede om at få mine penge tilbage. Men så
-                huskede jeg på, hvad han havde fortalt mig tidligere:{" "}
-                <strong>Algoritmen har ret omkring 80-89% af tiden</strong>. Du
-                kommer ikke til at vinde HVER handel, men du vinder nok til at
-                få et overskud alt i alt.{" "}
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Så jeg lod softwaren blive ved med at handle for mig og holdt
-                godt øje med den.{" "}
-                <strong>Den næste handel lavede profit!</strong> Kun 125 kr. men
-                det var stadig noget. Så lavede den næste handel
-                <strong>366 kr. profit</strong>, den næste{" "}
-                <strong>145 kr. profit</strong>, og det var alt i alt en profit
-                på
-                <strong>430 kr.</strong> Og alt det på under 5 minutter!{" "}
-              </em>
-            </p>
-            <p class="m-t-25">
-              <em>
-                Snart begyndte jeg at skovle kontanter op som sne, og jeg kunne
-                ikke tro mine egne øjne.
-              </em>
-              <em>
-                Hver gang jeg opdaterede skærmen, var min profit blevet større
-                og større. Det føltes, som om jeg var på narko, for det var så
-                spændende.{" "}
-              </em>
+              <b>
+                (<DateDE/>) Diese beiden Ex-Kommilitonen haben{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>
+                gegründet, eine einfach zu bedienende Bitcoin-Trading-Plattform.
+              </b>
             </p>
 
             <p class="m-t-25">
-              <em>
-                Nu ved jeg så, hvorfor Mads Mikkelsen altid er i så godt humør.
-                Og hvorfor de store banker ikke ønsker, at nogen kommer i
-                nærheden af dette{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  smuthul til velstand
-                {" "}</a>
-                . Sidst på dagen
-                <strong>havde jeg tjent over 4.974 kr.</strong>, hvilket ikke
-                var dårligt fra en startinvestering på 1.600 kr. Jeg var så
-                begejstret, at jeg knap nok kunne sove.
-              </em>
+              <span
+                style={{
+                  float: "left",
+                  color: "#000000",
+                  fontSize: "68px",
+                  lineHeight: "35px",
+                  paddingTop: "3px",
+                  paddingRight: "3px",
+                  fontFamily: "Times, serif, Georgia",
+                }}
+              >
+                B
+              </span>
+              eim Pilot der VOX Unterhaltungsshow "Die Höhle der Löwen", sind
+              zwei Ex-Kommilitonen mit ihrer Idee einer automatisierten
+              Bitcoin-Trading-Plattform{" "}
+              <a href="#AFFLINK#" target="_blank">
+                "Bitcoin Revolution&nbsp;"
+              </a>{" "}
+              an den Start gegangen. Die Idee ist einfach: Erlaube dem
+              Durchschnittsbürger am Bitcoin-Boom teil zu haben - auch wenn kein
+              Geld für eine Investition oder kein Knowhow vorhanden ist.
             </p>
+
             <p class="m-t-25">
-              <em>
-                Den næste dag var en tirsdag, og jeg var nødt til at gå på
-                arbejde. For at være ærlig (og lad være med at sige det til min
-                chef), så var det svært at fokusere på mit job, når jeg vidste,
-                at
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System{" "}
-                {" "}</a>
-                - softwaren tjente penge.{" "}
-              </em>
+              Ein Benutzer muss lediglich eine kleine Investition von idR €250
+              tätigen um den vollautomatisierten Prozess in Gang zu bringen. Ein
+              von den beiden Freunden entwickelter Algorithmus wählt den
+              perfekte Zeitraum aus, um Bitcoin günstige einzukaufen und
+              gewinnbringen wieder zu verkaufen, um den Profit zu maximieren.
             </p>
+
             <p class="m-t-25">
-              <em>
-                Jeg sneg mig ud på toilettet nogle få gange for at tjekke mine
-                profitter, og de blev ved med at vokse (med et lille tab her og
-                der). Sidst på dagen, før jeg lagde børnene i seng,{" "}
-                <strong>viste saldoen på min konto 8.904 kr.</strong> Det er
-                mere, end jeg tjener om UGEN på mit almindelige job!{" "}
-              </em>
+              Die beiden Jung-Unternehmer wollen durch einen kleine Provision
+              Geld verdienen, aber nur von den erwirtschafteten Gewinnen. "Die
+              Höhle der Löwen" soll sich mit{" "}
+              <a href="#AFFLINK#" target="_blank">
+                €200.000
+              </a>{" "}
+              mit 25% an{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              beteiligen. Aktuell wird der Wert des Unternehmens bei €800.000
+              eingestuft.
             </p>
+
             <p class="m-t-25">
-              <em>
-                Sidst på ugen havde jeg i alt tjent <strong>35.304 kr.</strong>{" "}
-                Jeg hævede nøjagtigt 30.000 kr. og geninvesterede resten.
-                Indenfor 2 dage modtog jeg min første check med posten - på
-                præcist €4.500 (30.000 kr.). Jeg kunne ikke tro det.”{" "}
-              </em>
+              Um zu demonstrieren wie effektiv{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>
+              arbeitet, haben die Unternehmer Judith Williams gebeten{" "}
+              <a href="#AFFLINK#" target="_blank">
+                €250
+              </a>{" "}
+              live in der Show zu investieren.
             </p>
-            {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
+            <a href="#AFFLINK#" target="_blank">
               <img
-                src="https://cdnimg.akhost.ru/9/img/chart.gif"
-                style={{"width":"100%"}}
+                src="https://cdnimg.akhost.ru/203/2018-03-28 12.06.25.jpg"
+                class="img-responsive"
               />
-            {" "}</a>
-            <p style={{"marginTop":"20px"}}>
+            </a>
+
+            <p>
+              <b>
+                Judith Williams nachdem sie mit{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                ihren ersten Bitcoin gekauft hat.
+              </b>
+            </p>
+
+            <p class="m-t-25">
               {" "}
               <i>
-                Hver gang jeg opdaterede mit handelsdashboard, voksede mine
-                overskud højere og højere. Det var sådan en spændende haste!
+                "Natürlich habe ich von Bitcoin und der Möglichkeit damit
+                Unmengen an Geld zu verdienen gehört, gekauft oder investiert
+                habe ich aber nicht. Man weiß ja auch nicht genau wo man
+                anfangen soll. Hier war es ganz einfach, ich habe einfach mit
+                meiner Kreditkarte Geld eingezahlt und das Revolution übernimmt
+                alles Weitere." Meint Judith.
               </i>
             </p>
+
             <p class="m-t-25">
-              <strong>Zachary fortsætter,</strong>
+              Nach der Einzahlung in Höhe von €250, hat die Trading-Plattform
+              damit angefangen günstig einzukaufen und teuer zu verkaufen. So
+              ist das Startkapital innerhalb von nur drei Minuten auf €323,18
+              gestiegen, ein Gewinne von €73,18.
             </p>
+            <a href="#AFFLINK#" target="_blank">
+              <img
+                src="https://cdnimg.akhost.ru/203/2018-03-28%2012.06.48.jpg"
+                class="img-responsive"
+              />
+            </a>
+            <p>
+              {" "}
+              <b>
+                Die Löwen wollten natürlich sofort in dieses Geschäft
+                investieren.{" "}
+              </b>
+            </p>
+
             <p class="m-t-25">
-              <i>
-                ”Nu tjener jeg konsekvent <strong>4.600 til 10.000 kr.</strong>{" "}
-                ekstra om dagen, takket være
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>
-                . Nu bliver pengene bare indbetalt på min bankkonto med få dages
-                mellemrum. Med bare nogle få klik modtager jeg mine penge
-                indenfor 24 - 48 timer. Hver gang overførslen rammer min
-                bankkonto, er jeg nødt til at nive mig selv i armen for at være
-                sikker på, at jeg ikke drømmer.{" "}
-              </i>
+              Alle Löwen waren stark davon beeindruckt, wie einfach es sein
+              kann, Geld zu verdienen. Die Plattform wickelt den gesamten Ablauf
+              vollautomatisch ab und da der Bitcoin Wert extrem volatil ist,
+              gibt es unzählige Möglichkeiten sein Geld zu vermehren.
             </p>
-            <p class="m-t-25">
-              <i>
-                Heldigvis ELSKER jeg mit job her, hvor jeg kan bringe vigtige
-                nyheder (som denne) til folk, for ellers ville jeg have sagt op
-                allerede. Jeg har dog en plan om at holde ferie med min familie
-                på Bali i Indonesien for at fejre, at vi er gældfri, og at min
-                families finanser endelig kører på skinner igen.{" "}
-              </i>
-            </p>
-            <p class="m-t-25">
-              <i>
-                Det ville ikke have været muligt uden Mikkelsens gavmildhed, da
-                han delte sin hemmelighed live på tv. Og jeg er glad for, at jeg
-                tog chancen for selv at afprøve{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                  Bitcoin System
-                {" "}</a>{" "}
-                Min kone er gladere end nogensinde før, og mine børns
-                legetøjshylde er godt fyldt op.{" "}
-              </i>
-            </p>
+
             <p class="m-t-25">
               <i>
-                Mine kolleger er godt trætte af, at de ikke tilmeldte sig selv
-                for to uger siden, som jeg gjorde. Men hele kontoret tilmeldte
-                sig hurtigt (også min chef), og nu kalder de mig alle en ”helt”,
-                fordi jeg afprøvede det.”
+                "Bitcoin ist im Moment so "heiß" und wenn jemand wie Judith,
+                Judith, dass soll keine Beleidigung sein, damit Geld verdienen
+                kann, bin ich natürlich auch dabei. Ich will auch ein Stück von
+                dem Kuchen haben. Ich mache €2 Millionen Angebot für die 25%
+                Beteiligung!" verkündet Carsten Maschmeyer.
+              </i>{" "}
+            </p>
+
+            <p class="m-t-25">
+              Bevor die beiden Unternehmer eine Chance hatten auf Maschmeyers
+              Angebot zu reagieren, unterbrach Judith Williams mit einem Lächeln
+              im Gesicht: "Nach nur 8 Minuten bin ich jetzt bereits bei
+              €398,42.".
+            </p>
+            <a href="#AFFLINK#" target="_blank">
+              <img
+                src="https://cdnimg.akhost.ru/203/carsten-maschmeyer-und-judith-williams.jpg"
+                class="img-responsive"
+              />
+            </a>
+            <p>
+              {" "}
+              <b>
+                Nach dem Zwischenruf von Judith Williams hat Carsten Maschmeyer
+                gerechnet und nachgelegt.
+              </b>
+            </p>
+
+            <p class="m-t-25">
+              Obwohl zu diesem Zeitpunkt alle 5 Löwen bereit waren zu
+              investieren, entstand schnell ein regelrechtes Wettbieten zwischen
+              Frank Thelen und Carsten Maschmeyer. Thelen hat zunächst das
+              Angebot von Maschmeyer um 0,5 Millionen Euro für die 25 Prozent
+              überboten, während Maschmeyer mit seinem neuen Angebot nur 20 für
+              €2,5 Mio. wollte und somit{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              mit 12,5 Millionen Euro bewertete.
+            </p>
+
+            <p class="m-t-25">
+              Nach ein einer heißen Diskussion akzeptierten die beiden
+              Unternehmer das Angebot von Carsten Maschmeyer und machten den bis
+              dahin größten Deal in der Geschichte von "Die Höhle der Löwen."{" "}
+            </p>
+
+            <p class="m-t-25">
+              Wir haben uns entschieden,{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              selber auf den Prüfstand zu stellen, um zu sehen, ob es wirklich
+              möglich ist, mit dieser Plattform Geld zu verdienen..
+            </p>
+
+            <p>
+              Als Erstes haben wir festgestellt, dass die Plattform eine
+              Kommission von 2% auf die Profite seiner User berechnet und man
+              muss eine Mindesteinzahlung in Höhe von €250 tätigen, um
+              loszulegen. Dieses anfängliche Investition wird von der Software
+              verwendet um die ersten Gewinne zu generieren.
+            </p>
+
+            <p>
+              Zudem wussten wir bereits, dass{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              dadurch Geld vermehrt indem er Bitcoin zu einem niedrigen Preis
+              kauft UND teuer verkauft. Dieses "Leerverkauf" Phänomen wird von
+              der Plattform automatisch abgewickelt.{" "}
+            </p>
+
+            <p>
+              Ich habe mich dazu entschlossen, ein Konto bei{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>
+              , zu eröffnen und habe €250 eingezahlt um das Konto zu aktivieren.{" "}
+            </p>
+
+            <h2>
+              <b style={{ textTransform: "uppercase", textAlign: "center" }}>
+                MEINE ERGEBNISSE MIT{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                NACH 7 TAGEN
+              </b>
+            </h2>
+
+            <p>
+              In der Show hat Judith nach 3 Minuten €73.18 Profit gemacht, bei
+              mir hat es viel länger gedauert. Die Plattform hat erst nach ca.
+              20 Stunden einen Gewinn von €80,19 erzielt, trotzdem
+              beeindruckend! Ich hatte bis dato noch keine Berührungspunkte mit
+              Bitcoin, habe aber mit dem
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              sofort Gewinner erwirtschaftet.
+            </p>
+
+            <p>
+              Ich habe ungefähr 5 Minuten pro Tag damit verbracht meine
+              Ergebnisse zu prüfen. Nach 5 Tagen hat mein Konto bereits ein
+              Haben von <b>€630</b> ausgewiesen. Dies ist eine <b>252%-ige</b>{" "}
+              Erhöhung meiner Ersteinzahlung. Ich wurde zu einem richtigen Fan
+              der Plattform.
+            </p>
+
+            <p>
+              Nach <b>7 Tagen</b> ist meine anfängliche Investition auf{" "}
+              <b>€1.930</b> herangewachsen. Zu diesem Zeitpunkt habe ich
+              angefangen mir darüber Gedanken zu machen, wofür ich das Geld
+              ausgeben kann. Soviel Geld verdiene ich pro Woche normalerweise
+              nicht, und ich habe effektiv weniger als 30 Minuten damit
+              verbracht, mein Konto zu Prüfen.
+            </p>
+
+            <p>
+              Ich habe beschlossen, mein Konto insgesamt 15 Tage lang zu
+              betreiben, nur um zu testen, wie das Ergebnis sein wird. Am Ende
+              hatte ich <b>€7.380,10</b> Gewinne und <b>€79.51</b> negative
+              Trades auf der Plattform. Ich habe meine Trading-History (meine
+              Trading-Logs) durchgesehen und festgestellt, dass nicht jeder
+              Trade profitabel ist, manche sogar Geld verlieren.{" "}
+            </p>
+
+            <p>
+              Es ist keine magische Plattform, aber 70% meiner Trades waren
+              profitabel, und somit das Ergebnis mehr als zufriedenstellend: ein
+              Reingewinn von <b>€7.300,59</b> auf meine anfängliche Einzahlung
+              von €250.Es hat mich weniger als 30 Minuten Arbeit pro Woche
+              gekostet und ich hatte keinerlei Erfahrung in diesem Bereich,
+              weder mit Krypto-Währungen, noch mit irgendwelchen technischen
+              Spielereien.
+            </p>
+
+            <p class="m-t-25">
+              Wie Sie auf dem Screenshot unten entnehmen können, habe mit der
+              Funktion "Geld abheben", <b>€ 7.300,59</b> vom{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              auf meinen privates Girokonto überwiesen.
+            </p>
+            <a href="#AFFLINK#" target="_blank">
+              <img
+                src="https://cdnimg.akhost.ru/203/revol3.jpg"
+                class="img-responsive"
+                style={{ border: "1px solid grey" }}
+              />
+            </a>
+            <p>
+              <b>
+                Ein Kinderspiel vom{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                Gelder auf andere Konten zu transferieren.
+              </b>
+            </p>
+
+            <p>
+              Insgesamt habe ich mit dem{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>{" "}
+              verdient. Ich werde das Geld in einen langen Urlaub investieren
+              und den Rest wieder in de{" "}
+              <a href="#AFFLINK#" target="_blank">
+                Bitcoin Revolution&nbsp;
+              </a>
+              . Ich kann sogar meinen Job kündigen!
+            </p>
+
+            <p>
+              <i>
+                Hinweis: Es hat 48 Stunden gedauert, bis das Geld auf meinem
+                Girokonto gutgeschrieben war.
               </i>
             </p>
-            <i></i>
+
+            <p></p>
+            <h2>
+              <b style={{ textTransform: "uppercase" }}>
+                DIE LÖWEN LIEBEN{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>
+              </b>
+            </h2>
+            <p></p>
+
+            <p>
+              <a href="#AFFLINK#" target="_blank">
+                <img
+                  src="https://cdnimg.akhost.ru/203/ccccc.jpg"
+                  class="img-responsive"
+                />
+              </a>
+            </p>
+            <h5>
+              <b>
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                war einer meiner größten Investitionen! Das Geschäft wuchs
+                allein in diesem Jahr um mehr als 2.400%. Und da ich die
+                Trading-Plattform selber nutze, verdiene ich - ohne auch nur
+                einen Finger krumm machen zu müssen, ein nettes Taschengeld." -
+                Carsten Maschmeyer
+              </b>
+            </h5>
+            <div class="top-bottom-border"></div>
+            <p></p>
+
+            <p>
+              <a href="#AFFLINK#" target="_blank">
+                <img
+                  src="https://cdnimg.akhost.ru/203/1112018-03-28 12.09.03.jpg"
+                  class="img-responsive"
+                />
+              </a>
+            </p>
+            <h5>
+              <b>
+                "Leider habe ich von den Gründern nicht den Zuschlag erhalten,
+                sondern Carsten Maschmeyer. Trotzdem nutze ich den Bitcoin Trade
+                und fahre damit unglaubliche Gewinne ein! Mein "Return on
+                Invest" ist mit mehr als 630%, viel höher, als jeder Return den
+                ich jemals bei "Die Höhle der Löwen" erzielt habe." - Frank
+                Thelen
+              </b>
+            </h5>
+            <div class="top-bottom-border"></div>
+            <p></p>
+
+            <p>
+              <a href="#AFFLINK#" target="_blank">
+                <img
+                  src="https://cdnimg.akhost.ru/203/ddd2018-03-28 12.10.45.jpg"
+                  class="img-responsive"
+                />
+              </a>
+            </p>
+            <h5>
+              <b>
+                "Ich kannte Bitcoin nur von "hören-sagen", bin aber in 3 Monaten
+                zum Bitcoin Multi-Millionär geworden. Im Nachhinein wünsche ich
+                mir, statt Carsten in den{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                investiert zu haben, bin aber sehr froh, dass ich mich dazu
+                entschieden habe, das Produkt aktiv zu nutzen." - Dagmar Wöhrl
+              </b>
+            </h5>
+            <div class="top-bottom-border"></div>
+            <p></p>
+
+            <p>
+              <a href="#AFFLINK#" target="_blank">
+                <img
+                  src="https://cdnimg.akhost.ru/203/2jjjj018-03-28 12.11.12.jpg"
+                  class="img-responsive"
+                />
+              </a>
+            </p>
+            <h5>
+              <b>
+                "Ich kann es fast immer noch nicht glauben, ich habe €250
+                investiert (live in der Show) und hatte nach nur 3 Minuten
+                bereits einen Gewinn von €73,18. Das ist der höchste und
+                schnellste ROI (Anmerkung der Redaktion: "Return on Invest"),
+                den ich nach nur 3 Minuten gesehen habe." - Judith Williams
+              </b>
+            </h5>
+            <div class="top-bottom-border"></div>
+            <p></p>
+
+            <p>
+              <a href="#AFFLINK#" target="_blank">
+                <img
+                  src="https://cdnimg.akhost.ru/203/rrrr2018-03-28 12.11.52.jpg"
+                  class="img-responsive"
+                />
+              </a>
+            </p>
+            <h5>
+              <b>
+                "
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                hat für mich die Welt der Investitionen revolutioniert. Ich habe
+                mein normales Aktienportfolio zugunsten des Bitcoin Systems
+                aufgegeben. Mit dem Einsatz vom{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>
+                verdiene ich schneller und einfacher mein Geld dabei bin ich
+                absolut keine Ahnung von Krypto-Währungen, geschweigen denn von
+                Bitcoin." - Ralf Dümmel
+              </b>
+            </h5>
+            <div class="top-bottom-border"></div>
+            <p></p>
+
+            <p></p>
             <h3>
-              <b style={{"textTransform":"uppercase"}}>
-                PRØV SELV{" "}
-                <span style={{"textTransform":"uppercase"}}>
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank">
-                    Bitcoin System
-                  {" "}</a>
-                </span>
+              <b style={{ textTransform: "uppercase" }}>
+                PROBIEREN SIE{" "}
+                <a href="#AFFLINK#" target="_blank">
+                  Bitcoin Revolution&nbsp;
+                </a>{" "}
+                FÜR SICH AUS
               </b>
             </h3>
             <p></p>
+
             <p class="m-t-25">
-              Lige nu tillader{" "}
-              {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                Bitcoin System
-              {" "}</a>{" "}
-              vores læsere at prøve platformen for en indledende
-              minimumsindbetaling på kun 1.600 DKK. Du kan udbetale dette beløb
-              når som helst du vil.
+              Momentan erlaubt{" "}
+              <a href="#AFFLINK#" target="_blank">
+                unseren Lesern, die Plattform für eine Ersteinzahlung von nur
+                €250 zu testen. Sie können diesen Betrag jederzeit abheben.
+              </a>
             </p>
+            <a href="#AFFLINK#" target="_blank"></a>
+
             <p>
-              I betragtning af den enorme stigning i handelsplatformens
-              popularitet, kan dette indledende minimumsindskud stige!
+              Angesichts der aktuellen Popularität der Handelsplattform kann
+              diese anfängliche Mindesteinlage steigen!
             </p>
+
             <p class="m-t-25">
+              <a href="#AFFLINK#" target="_blank">
+                <b>Es ist wichtig, dass Sie sich sofort für </b>
+              </a>
               <b>
-                <strong>Det er vigtigt, at du tilmelder dig</strong>{" "}
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
+                <a href="#AFFLINK#" target="_blank">
                   <b>
-                    <u>Bitcoin System</u>
+                    <u>Bitcoin Revolution&nbsp;</u>
                   </b>
-                {" "}</a>
-                <strong>
-                  {" "}
-                  med det samme, da vi ikke ved, hvor mange pladser der vil være
-                  tilgængelige
-                </strong>
+                </a>{" "}
+                anmelden, da wir nicht wissen, wie viele Plätze verfügbar sein
+                werden
               </b>
             </p>
+
             <p>
-              Du kan finansiere din konto via kreditkort eller bankoverførsel.
+              anmelden, da wir nicht wissen, wie viele Plätze verfügbar sein
+              werden.
             </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="" style={{"padding":"0 10px"}}>
-            <p>Det kræver to trin for at komme i gang:</p>
-            <h4>
-              <ol>
-                <li>Tilmeld dig og få en gratis konto</li>
-                <li>Indbetal minimum 1.600 DKK</li>
-              </ol>
-            </h4>
-            <div class="row revival-box">
-              <div class="">
-                <img
-                  src="https://cdnimg.akhost.ru/9/img/checkmark.png"
-                  style={{"verticalAlign":"middle","float":"left"}}
-                />
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  Trin 1:{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                    <strong>
-                      <u>
-                        Indtast dine oplysninger for at tilmelde en gratis konto
-                      </u>
-                    </strong>
-                  {" "}</a>
-                </h4>
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">{" "}</a>
-                </h4>
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                  <img
-                    src="https://cdnimg.akhost.ru/9/img/1.jpg"
-                    class="img-responsive rev"
-                  />
-                {" "}</a>
+            <div class="row">
+              <div class="col-xs-12">
+                <h5>
+                  <p>Es braucht nur drei Schritte um zu starten</p>
+                  <ol>
+                    <li>
+                      Melden sie sich hier an und eröffnen sie ein kostenloses
+                      Konto
+                    </li>
+                    <li>Erhalte ein Konto</li>
+                    <li>Zahlen sie den Mindestbeitrag in Höhe von €250 ein</li>
+                    <li>
+                      Verwenden Sie den{" "}
+                      <a href="#AFFLINK#" target="_blank">
+                        Bitcoin Revolution&nbsp;
+                      </a>{" "}
+                      Plattform um Geld zu verdienen
+                    </li>
+                  </ol>
+                  <p></p>
+                  <p>
+                    Hinweis: Sie können sich ihren Gewinn oder Ihre erste
+                    Einzahlung jederzeit auszahlen lassen, klicken sie dazu
+                    einfach auf "Auszahlung"
+                  </p>
+                </h5>
                 <p></p>
-              </div>
-            </div>
-            <div class="row revival-box">
-              <div class="">
-                <img
-                  src="https://cdnimg.akhost.ru/9/img/checkmark.png"
-                  style={{"verticalAlign":"middle","float":"left"}}
-                />
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  Trin 2:{" "}
-                  <strong>
-                    <u>
-                      {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                        Trin 2:
-                      {" "}</a>
-                      {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                        {" "}
-                        Inbetal minimumsinvesteringen på 1.600 DKK
-                      {" "}</a>
-                    </u>
-                  </strong>{" "}
-                </h4>
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">{" "}</a>
-                </h4>
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                  <img
-                    src="https://cdnimg.akhost.ru/9/img/bitcoin-step2.png"
-                    class="img-responsive rev"
-                    style={{"border":"1px solid grey"}}
-                  />
-                {" "}</a>
-                <p></p>
-              </div>
-            </div>
-            <div class="row revival-box">
-              <div class="">
-                <img
-                  src="https://cdnimg.akhost.ru/9/img/checkmark.png"
-                  style={{"verticalAlign":"middle","float":"left"}}
-                />
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  Trin 3:{" "}
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                    <strong>
-                      <u>
-                        Udbetal din fortjeneste (eller lad den være investeret,
-                        for at tjene mere!)
-                      </u>
-                    </strong>
-                  {" "}</a>
-                </h4>
-                <h4 style={{"paddingTop":"5px","fontWeight":"bold"}}>
-                  {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">{" "}</a>
-                </h4>
-                {" "}<a href="https://redundan.live/?z4oic=c2336228e176259db67c8&m3krvwqdph=benyttemig.smb.site&b2jquvgt=cobiro" target="_blank" class="out_link ">
-                  <img
-                    src="https://cdnimg.akhost.ru/9/img/bitcoin-step3.png"
-                    class="img-responsive rev"
-                    style={{"border":"1px solid grey"}}
-                  />
-                {" "}</a>
-                <p></p>
+                <div class="row revival-box">
+                  <div class="col-sm-12">
+                    <img
+                      src="https://cdnimg.akhost.ru/203/checkmark.png"
+                      style={{ verticalAlign: "middle", float: "left" }}
+                    />
+                    <h4 style={{ paddingTop: "5px", fontWeight: "bold" }}>
+                      Schritt 1:
+                      <a href="#AFFLINK#" target="_blank">
+                        <b>
+                          <u>
+                            Melden Sie sich hier an und eröffnen Sie ein
+                            kostenloses Konto
+                          </u>
+                        </b>
+                      </a>
+                    </h4>
+                    <a href="#AFFLINK#" target="_blank">
+                      <img
+                        src="https://cdnimg.akhost.ru/203/1.jpg"
+                        class="img-responsive rev"
+                      />
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
+                <div class="row revival-box">
+                  <div class="col-sm-12">
+                    <img
+                      src="https://cdnimg.akhost.ru/203/checkmark.png"
+                      style={{ verticalAlign: "middle", float: "left" }}
+                    />
+                    <h4 style={{ paddingTop: "5px", fontWeight: "bold" }}>
+                      Schritt 2:
+                      <a href="#AFFLINK#" target="_blank">
+                        <b>
+                          <u>
+                            Zahlen Sie den Mindestbeitrag in Höhe von €250 ein
+                          </u>
+                        </b>
+                      </a>
+                    </h4>
+                    <a href="#AFFLINK#" target="_blank">
+                      <img
+                        src="https://cdnimg.akhost.ru/203/revol2.jpg"
+                        class="img-responsive rev"
+                        style={{ border: "1px solid grey" }}
+                      />
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
+                <div class="row revival-box">
+                  <div class="col-sm-12">
+                    <img
+                      src="https://cdnimg.akhost.ru/203/checkmark.png"
+                      style={{ verticalAlign: "middle", float: "left" }}
+                    />
+                    <h4 style={{ paddingTop: "5px", fontWeight: "bold" }}>
+                      Schritt 3:
+                      <a href="#AFFLINK#" target="_blank">
+                        <b>
+                          <u>
+                            Verwenden Sie den Bitcoin Revolution&nbsp; Plattform um
+                            Geld zu verdienen
+                          </u>
+                        </b>
+                      </a>
+                    </h4>
+                    <a href="#AFFLINK#" target="_blank">
+                      <img
+                        src="https://cdnimg.akhost.ru/203/revol3.jpg"
+                        class="img-responsive rev"
+                        style={{ border: "1px solid grey" }}
+                      />
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
